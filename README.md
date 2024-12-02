@@ -18,8 +18,9 @@ You can deploy the project using Vercel, Netlify, or other Serverless services, 
   - Short URL List
   - Delete Short URLs
   - Customize URL
+- Fast access to third-party authentication systems
 - API
-- Can be used for secondary development
+  - Can be used for secondary development
 - Database Cache
 
 
@@ -27,7 +28,10 @@ You can deploy the project using Vercel, Netlify, or other Serverless services, 
 
 Test link: https://go.muna.uk/eXw8n
 
-<img width="583" alt="image" src="https://i.imgur.com/DNaxWTm.png">
+<img width="1080" alt="login" src="https://github.com/lilac-milena/Magic-Link/assets/143427814/636fd64f-ea89-469f-8948-b3dd0e75670e">
+
+## 📃 API Documentation
+[*API-documentation.md*](API-documentation.md)
 
 ## 😜 Deployment
 
@@ -151,6 +155,7 @@ When you see this page, the service has been successfully deployed
 
 You can access the administration page through the domain name + /admin/ (**admin must be followed by the / sign **), the login password is the value of "AdminSession" in the environment variable you set.
 
-![image](https://i.imgur.com/qpN3JY4.png) 
+![image](https://github.com/lilac-milena/Magic-Link/assets/143427814/d19a0da2-0999-4c93-8dac-eceba7f249cd)
+
 
 If you need to customize your domain name, you can bind it yourself on the setup page.
